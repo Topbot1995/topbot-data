@@ -1,7 +1,0 @@
-Hello, Greetings!
-My name is David Roadman and I am a Senior Blockchain expert.
-I have been a Blockchain expert for 4 years and I have much experience in Blockchain such as development of smart contract, DAO, DeFi and so on.
-I have attached my resume so that you can check my profile in your spare time.
-I have built some websites also with React as Frontend and Blockchain as Backend, and they are now alive online.
-If you are interested in me, send me email or chat via skype or discord.
-Thanks.
